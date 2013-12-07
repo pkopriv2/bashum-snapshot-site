@@ -1,4 +1,4 @@
-# COMMANDER-1.0.3-SNAPSHOT
+# COMMANDER-1.0.3-SNAPSHOT - Sat Dec  7 10:42:26 CST 2013
 
 Commander is a tool to facilitate creating multi command tools
 
