@@ -1,4 +1,4 @@
-# COMMANDER-1.0.3-SNAPSHOT - Sat Dec  7 10:42:26 CST 2013
+# COMMANDER-1.0.3-SNAPSHOT
 
 Commander is a tool to facilitate creating multi command tools
 
@@ -17,4 +17,8 @@ Commander is a tool to facilitate creating multi command tools
 ```
 No tests found.
 ```
+
+## Build Date
+
+Sat Dec  7 10:43:38 CST 2013
 
